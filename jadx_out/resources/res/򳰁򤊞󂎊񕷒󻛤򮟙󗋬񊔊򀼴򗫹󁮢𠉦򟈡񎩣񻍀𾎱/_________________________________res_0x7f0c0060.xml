@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:paddingLeft="@򔸐󫪥򪮝󼭠񢽀𗉺򛕊𯋈򚔛𤪴񞛰󂴅󖭳𦷬󷰝񬸐/_________________________________res_0x7f06026f"
+        android:paddingTop="16dp"
+        android:paddingRight="@򔸐󫪥򪮝󼭠񢽀𗉺򛕊𯋈򚔛𤪴񞛰󂴅󖭳𦷬󷰝񬸐/_________________________________res_0x7f06026f"
+        android:paddingBottom="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@􍘏𥟚􄕁𛎖򅦎󯃾񠇀򊍣򜅸񪢝񫯑񢂿𻌠󬻡󩭪㒤/_________________________________res_0x7f09011d"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@񠍱𻼽𦨋󼴮򑖺􏣡򉌯𖀀񊳈󩤘𠢖膿񂶬⦒󻬫􄕿/_________________________________res_0x7f1000ac"
+                android:inputType="date"
+                android:imeOptions="flagNoExtractUi"/>
+        </com.google.android.material.textfield.TextInputLayout>
+        <Space
+            android:layout_width="8dp"
+            android:layout_height="0dp"/>
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@􍘏𥟚􄕁𛎖򅦎󯃾񠇀򊍣򜅸񪢝񫯑񢂿𻌠󬻡󩭪㒤/_________________________________res_0x7f09011c"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@񠍱𻼽𦨋󼴮򑖺􏣡򉌯𖀀񊳈󩤘𠢖膿񂶬⦒󻬫􄕿/_________________________________res_0x7f1000ab"
+                android:inputType="date"
+                android:imeOptions="flagNoExtractUi"/>
+        </com.google.android.material.textfield.TextInputLayout>
+    </LinearLayout>
+</ScrollView>

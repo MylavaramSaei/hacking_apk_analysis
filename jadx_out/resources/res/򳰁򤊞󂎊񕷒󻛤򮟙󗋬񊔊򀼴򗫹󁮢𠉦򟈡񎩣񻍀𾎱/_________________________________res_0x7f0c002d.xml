@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.internal.CheckableImageButton xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_gravity="start|center_vertical"
+    android:id="@􍘏𥟚􄕁𛎖򅦎󯃾񠇀򊍣򜅸񪢝񫯑񢂿𻌠󬻡󩭪㒤/_________________________________res_0x7f0901ac"
+    android:background="?󏝖󡂗􊝘󃮻󨈷𩌠蝋򬚮񓙵񡗪󸫱򌽇򁡚綄􇞝/_________________________________res_0x7f030001"
+    android:visibility="gone"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:minWidth="@򔸐󫪥򪮝󼭠񢽀𗉺򛕊𯋈򚔛𤪴񞛰󂴅󖭳𦷬󷰝񬸐/_________________________________res_0x7f0602bc"
+    android:minHeight="@򔸐󫪥򪮝󼭠񢽀𗉺򛕊𯋈򚔛𤪴񞛰󂴅󖭳𦷬󷰝񬸐/_________________________________res_0x7f0602bc"
+    android:layout_marginEnd="@򔸐󫪥򪮝󼭠񢽀𗉺򛕊𯋈򚔛𤪴񞛰󂴅󖭳𦷬󷰝񬸐/_________________________________res_0x7f0602fd"/>

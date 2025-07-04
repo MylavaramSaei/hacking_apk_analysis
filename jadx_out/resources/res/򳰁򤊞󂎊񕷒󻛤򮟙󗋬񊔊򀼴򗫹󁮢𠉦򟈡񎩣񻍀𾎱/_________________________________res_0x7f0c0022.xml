@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view xmlns:android="http://schemas.android.com/apk/res/android"
+    android:theme="@𯇙휧󺤴𵹭魻𹴩񖵋򛀞񷤜󕱷𾭪𓠴򃖲𫖙󩭊񮚭/_________________________________res_0x7f110274"
+    android:layout_gravity="bottom"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    class="com.google.android.material.snackbar.SnackbarContentLayout">
+    <TextView
+        android:textAppearance="@𯇙휧󺤴𵹭魻𹴩񖵋򛀞񷤜󕱷𾭪𓠴򃖲𫖙󩭊񮚭/_________________________________res_0x7f1101d1"
+        android:ellipsize="end"
+        android:layout_gravity="start|center_vertical"
+        android:id="@􍘏𥟚􄕁𛎖򅦎󯃾񠇀򊍣򜅸񪢝񫯑񢂿𻌠󬻡󩭪㒤/_________________________________res_0x7f09017d"
+        android:paddingLeft="@򔸐󫪥򪮝󼭠񢽀𗉺򛕊𯋈򚔛𤪴񞛰󂴅󖭳𦷬󷰝񬸐/_________________________________res_0x7f060085"
+        android:paddingTop="@򔸐󫪥򪮝󼭠񢽀𗉺򛕊𯋈򚔛𤪴񞛰󂴅󖭳𦷬󷰝񬸐/_________________________________res_0x7f060086"
+        android:paddingRight="@򔸐󫪥򪮝󼭠񢽀𗉺򛕊𯋈򚔛𤪴񞛰󂴅󖭳𦷬󷰝񬸐/_________________________________res_0x7f060085"
+        android:paddingBottom="@򔸐󫪥򪮝󼭠񢽀𗉺򛕊𯋈򚔛𤪴񞛰󂴅󖭳𦷬󷰝񬸐/_________________________________res_0x7f060086"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:maxLines="@󬚚򿛁񯺓򰧪󸱍񿨑񈅏󀥑𖥡󈦠󓫌􋚋񧭌񲪁󺟧󱪵/_________________________________res_0x7f0a0006"
+        android:layout_weight="1"
+        android:textAlignment="viewStart"/>
+    <Button
+        android:textColor="?󏝖󡂗􊝘󃮻󨈷𩌠蝋򬚮񓙵񡗪󸫱򌽇򁡚綄􇞝/_________________________________res_0x7f0300de"
+        android:layout_gravity="end|center_vertical"
+        android:id="@􍘏𥟚􄕁𛎖򅦎󯃾񠇀򊍣򜅸񪢝񫯑񢂿𻌠󬻡󩭪㒤/_________________________________res_0x7f09017c"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@򔸐󫪥򪮝󼭠񢽀𗉺򛕊𯋈򚔛𤪴񞛰󂴅󖭳𦷬󷰝񬸐/_________________________________res_0x7f060082"
+        android:minWidth="48dp"
+        android:layout_marginStart="@򔸐󫪥򪮝󼭠񢽀𗉺򛕊𯋈򚔛𤪴񞛰󂴅󖭳𦷬󷰝񬸐/_________________________________res_0x7f060082"
+        style="?󏝖󡂗􊝘󃮻󨈷𩌠蝋򬚮񓙵񡗪󸫱򌽇򁡚綄􇞝/_________________________________res_0x7f030070"/>
+</view>

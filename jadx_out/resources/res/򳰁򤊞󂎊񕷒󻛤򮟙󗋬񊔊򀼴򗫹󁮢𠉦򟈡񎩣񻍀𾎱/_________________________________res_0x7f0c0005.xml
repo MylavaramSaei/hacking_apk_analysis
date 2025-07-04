@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@􍘏𥟚􄕁𛎖򅦎󯃾񠇀򊍣򜅸񪢝񫯑񢂿𻌠󬻡󩭪㒤/_________________________________res_0x7f09003f"
+    android:paddingLeft="12dp"
+    android:focusable="true"
+    android:clickable="true"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:layout_marginRight="16dp"
+    android:contentDescription="?󏝖󡂗􊝘󃮻󨈷𩌠蝋򬚮񓙵񡗪󸫱򌽇򁡚綄􇞝/_________________________________res_0x7f030012"
+    android:paddingStart="12dp"
+    android:layout_marginEnd="16dp"
+    app:srcCompat="?󏝖󡂗􊝘󃮻󨈷𩌠蝋򬚮񓙵񡗪󸫱򌽇򁡚綄􇞝/_________________________________res_0x7f030013"
+    style="?󏝖󡂗􊝘󃮻󨈷𩌠蝋򬚮񓙵񡗪󸫱򌽇򁡚綄􇞝/_________________________________res_0x7f030011"/>

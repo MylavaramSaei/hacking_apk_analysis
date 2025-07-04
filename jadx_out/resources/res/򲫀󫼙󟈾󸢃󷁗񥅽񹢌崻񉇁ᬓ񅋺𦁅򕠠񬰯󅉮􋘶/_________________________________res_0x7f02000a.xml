@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <selector>
+        <item
+            android:state_enabled="true"
+            android:state_hovered="true">
+            <set>
+                <objectAnimator
+                    android:duration="@󬚚򿛁񯺓򰧪󸱍񿨑񈅏󀥑𖥡󈦠󓫌􋚋񧭌񲪁󺟧󱪵/_________________________________res_0x7f0a000c"
+                    android:valueTo="@򔸐󫪥򪮝󼭠񢽀𗉺򛕊𯋈򚔛𤪴񞛰󂴅󖭳𦷬󷰝񬸐/_________________________________res_0x7f0600e3"
+                    android:valueType="floatType"
+                    android:propertyName="translationZ"/>
+                <objectAnimator
+                    android:duration="0"
+                    android:valueTo="@򔸐󫪥򪮝󼭠񢽀𗉺򛕊𯋈򚔛𤪴񞛰󂴅󖭳𦷬󷰝񬸐/_________________________________res_0x7f0600cf"
+                    android:valueType="floatType"
+                    android:propertyName="elevation"/>
+            </set>
+        </item>
+        <item android:state_enabled="true">
+            <set>
+                <objectAnimator
+                    android:duration="@󬚚򿛁񯺓򰧪󸱍񿨑񈅏󀥑𖥡󈦠󓫌􋚋񧭌񲪁󺟧󱪵/_________________________________res_0x7f0a000c"
+                    android:valueTo="@򔸐󫪥򪮝󼭠񢽀𗉺򛕊𯋈򚔛𤪴񞛰󂴅󖭳𦷬󷰝񬸐/_________________________________res_0x7f0600e2"
+                    android:valueType="floatType"
+                    android:propertyName="translationZ"
+                    android:startDelay="@󬚚򿛁񯺓򰧪󸱍񿨑񈅏󀥑𖥡󈦠󓫌􋚋񧭌񲪁󺟧󱪵/_________________________________res_0x7f0a000b"/>
+                <objectAnimator
+                    android:duration="0"
+                    android:valueTo="@򔸐󫪥򪮝󼭠񢽀𗉺򛕊𯋈򚔛𤪴񞛰󂴅󖭳𦷬󷰝񬸐/_________________________________res_0x7f0600cf"
+                    android:valueType="floatType"
+                    android:propertyName="elevation"/>
+            </set>
+        </item>
+        <item>
+            <set>
+                <objectAnimator
+                    android:duration="0"
+                    android:valueTo="@򔸐󫪥򪮝󼭠񢽀𗉺򛕊𯋈򚔛𤪴񞛰󂴅󖭳𦷬󷰝񬸐/_________________________________res_0x7f0600ce"
+                    android:valueType="floatType"
+                    android:propertyName="translationZ"/>
+                <objectAnimator
+                    android:duration="0"
+                    android:valueTo="@򔸐󫪥򪮝󼭠񢽀𗉺򛕊𯋈򚔛𤪴񞛰󂴅󖭳𦷬󷰝񬸐/_________________________________res_0x7f0600cd"
+                    android:valueType="floatType"
+                    android:propertyName="elevation"/>
+            </set>
+        </item>
+    </selector>
+</set>

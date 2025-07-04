@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<objectAnimator xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:duration="@󬚚򿛁񯺓򰧪󸱍񿨑񈅏󀥑𖥡󈦠󓫌􋚋񧭌񲪁󺟧󱪵/_________________________________res_0x7f0a0039"
+    android:valueFrom="@񠍱𻼽𦨋󼴮򑖺􏣡򉌯𖀀񊳈󩤘𠢖膿񂶬⦒󻬫􄕿/_________________________________res_0x7f1000b6"
+    android:valueTo="@񠍱𻼽𦨋󼴮򑖺􏣡򉌯𖀀񊳈󩤘𠢖膿񂶬⦒󻬫􄕿/_________________________________res_0x7f1000b7"
+    android:valueType="pathType"
+    android:propertyName="pathData"/>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="58dp"
+    style="@𯇙휧󺤴𵹭魻𹴩񖵋򛀞񷤜󕱷𾭪𓠴򃖲𫖙󩭊񮚭/_________________________________res_0x7f11014e">
+    <ImageView
+        android:id="@android:id/icon1"
+        android:visibility="invisible"
+        android:layout_width="@򔸐󫪥򪮝󼭠񢽀𗉺򛕊𯋈򚔛𤪴񞛰󂴅󖭳𦷬󷰝񬸐/_________________________________res_0x7f060029"
+        android:layout_height="48dp"
+        android:scaleType="centerInside"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        style="@𯇙휧󺤴𵹭魻𹴩񖵋򛀞񷤜󕱷𾭪𓠴򃖲𫖙󩭊񮚭/_________________________________res_0x7f11014f"/>
+    <ImageView
+        android:id="@􍘏𥟚􄕁𛎖򅦎󯃾񠇀򊍣򜅸񪢝񫯑񢂿𻌠󬻡󩭪㒤/_________________________________res_0x7f09009c"
+        android:background="?󏝖󡂗􊝘󃮻󨈷𩌠蝋򬚮񓙵񡗪󸫱򌽇򁡚綄􇞝/_________________________________res_0x7f030375"
+        android:visibility="gone"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:scaleType="centerInside"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        style="@𯇙휧󺤴𵹭魻𹴩񖵋򛀞񷤜󕱷𾭪𓠴򃖲𫖙󩭊񮚭/_________________________________res_0x7f110151"/>
+    <ImageView
+        android:id="@android:id/icon2"
+        android:visibility="gone"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:scaleType="centerInside"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        android:layout_alignWithParentIfMissing="true"
+        style="@𯇙휧󺤴𵹭魻𹴩񖵋򛀞񷤜󕱷𾭪𓠴򃖲𫖙󩭊񮚭/_________________________________res_0x7f110150"/>
+    <TextView
+        android:textAppearance="?󏝖󡂗􊝘󃮻󨈷𩌠蝋򬚮񓙵񡗪󸫱򌽇򁡚綄􇞝/_________________________________res_0x7f03040c"
+        android:gravity="top"
+        android:id="@android:id/text2"
+        android:paddingBottom="4dp"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="29dp"
+        android:singleLine="true"
+        android:layout_alignParentBottom="true"
+        android:layout_alignWithParentIfMissing="true"
+        style="?android:attr/dropDownItemStyle"/>
+    <TextView
+        android:textAppearance="?󏝖󡂗􊝘󃮻󨈷𩌠蝋򬚮񓙵񡗪󸫱򌽇򁡚綄􇞝/_________________________________res_0x7f03040d"
+        android:id="@android:id/text1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:layout_above="@android:id/text2"
+        android:layout_centerVertical="true"
+        style="?android:attr/dropDownItemStyle"/>
+</RelativeLayout>

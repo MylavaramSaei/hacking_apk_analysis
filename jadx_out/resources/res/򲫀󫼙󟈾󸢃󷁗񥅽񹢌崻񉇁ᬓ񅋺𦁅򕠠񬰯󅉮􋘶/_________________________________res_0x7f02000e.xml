@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:state_enabled="true"
+        android:state_selected="true"
+        android:state_hovered="true">
+        <objectAnimator
+            android:duration="@󬚚򿛁񯺓򰧪󸱍񿨑񈅏󀥑𖥡󈦠󓫌􋚋񧭌񲪁󺟧󱪵/_________________________________res_0x7f0a000f"
+            android:valueTo="@򔸐󫪥򪮝󼭠񢽀𗉺򛕊𯋈򚔛𤪴񞛰󂴅󖭳𦷬󷰝񬸐/_________________________________res_0x7f0600f3"
+            android:valueType="floatType"
+            android:propertyName="translationZ"/>
+    </item>
+    <item
+        android:state_enabled="true"
+        android:state_checked="true"
+        android:state_hovered="true">
+        <objectAnimator
+            android:duration="@󬚚򿛁񯺓򰧪󸱍񿨑񈅏󀥑𖥡󈦠󓫌􋚋񧭌񲪁󺟧󱪵/_________________________________res_0x7f0a000f"
+            android:valueTo="@򔸐󫪥򪮝󼭠񢽀𗉺򛕊𯋈򚔛𤪴񞛰󂴅󖭳𦷬󷰝񬸐/_________________________________res_0x7f0600f3"
+            android:valueType="floatType"
+            android:propertyName="translationZ"/>
+    </item>
+    <item>
+        <objectAnimator
+            android:duration="@󬚚򿛁񯺓򰧪󸱍񿨑񈅏󀥑𖥡󈦠󓫌􋚋񧭌񲪁󺟧󱪵/_________________________________res_0x7f0a000f"
+            android:valueTo="0"
+            android:valueType="floatType"
+            android:propertyName="translationZ"/>
+    </item>
+</selector>

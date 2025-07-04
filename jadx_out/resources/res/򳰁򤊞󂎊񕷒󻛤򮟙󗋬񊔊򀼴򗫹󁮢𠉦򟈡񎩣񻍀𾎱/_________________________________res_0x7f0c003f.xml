@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.textfield.TextInputLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    app:errorIconDrawable="@null"
+    app:hintEnabled="false">
+    <com.google.android.material.textfield.TextInputEditText
+        android:layout_width="@򔸐󫪥򪮝󼭠񢽀𗉺򛕊𯋈򚔛𤪴񞛰󂴅󖭳𦷬󷰝񬸐/_________________________________res_0x7f06021e"
+        android:layout_height="@򔸐󫪥򪮝󼭠񢽀𗉺򛕊𯋈򚔛𤪴񞛰󂴅󖭳𦷬󷰝񬸐/_________________________________res_0x7f06021c"
+        android:textCursorDrawable="@𨊅񲒕󻘮򬰹񅗲񰩰񋀟𯺖𚧔񂋵򲎯󃍪󛐛𥙚򕜸󧐆/_________________________________res_0x7f0700c1"/>
+    <TextView
+        android:id="@􍘏𥟚􄕁𛎖򅦎󯃾񠇀򊍣򜅸񪢝񫯑񢂿𻌠󬻡󩭪㒤/_________________________________res_0x7f0900f3"
+        android:focusable="false"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</com.google.android.material.textfield.TextInputLayout>

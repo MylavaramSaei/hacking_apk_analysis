@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.view.menu.ListMenuItemView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minWidth="196dp">
+    <ImageView
+        android:id="@􍘏𥟚􄕁𛎖򅦎󯃾񠇀򊍣򜅸񪢝񫯑񢂿𻌠󬻡󩭪㒤/_________________________________res_0x7f0900be"
+        android:background="@𨊅񲒕󻘮򬰹񅗲񰩰񋀟𯺖𚧔񂋵򲎯󃍪󛐛𥙚򕜸󧐆/_________________________________res_0x7f07004c"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginBottom="4dp"/>
+    <LinearLayout
+        android:id="@􍘏𥟚􄕁𛎖򅦎󯃾񠇀򊍣򜅸񪢝񫯑񢂿𻌠󬻡󩭪㒤/_________________________________res_0x7f090074"
+        android:duplicateParentState="true"
+        android:layout_width="match_parent"
+        android:layout_height="?󏝖󡂗􊝘󃮻󨈷𩌠蝋򬚮񓙵񡗪󸫱򌽇򁡚綄􇞝/_________________________________res_0x7f03017f"
+        style="@𯇙휧󺤴𵹭魻𹴩񖵋򛀞񷤜󕱷𾭪𓠴򃖲𫖙󩭊񮚭/_________________________________res_0x7f110148">
+        <RelativeLayout
+            android:layout_gravity="center_vertical"
+            android:duplicateParentState="true"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            style="@𯇙휧󺤴𵹭魻𹴩񖵋򛀞񷤜󕱷𾭪𓠴򃖲𫖙󩭊񮚭/_________________________________res_0x7f110149">
+            <TextView
+                android:textAppearance="?󏝖󡂗􊝘󃮻󨈷𩌠蝋򬚮񓙵񡗪󸫱򌽇򁡚綄􇞝/_________________________________res_0x7f030405"
+                android:ellipsize="marquee"
+                android:id="@􍘏𥟚􄕁𛎖򅦎󯃾񠇀򊍣򜅸񪢝񫯑񢂿𻌠󬻡󩭪㒤/_________________________________res_0x7f0901b4"
+                android:fadingEdge="horizontal"
+                android:duplicateParentState="true"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:layout_alignParentTop="true"
+                style="@𯇙휧󺤴𵹭魻𹴩񖵋򛀞񷤜󕱷𾭪𓠴򃖲𫖙󩭊񮚭/_________________________________res_0x7f11014c"/>
+            <TextView
+                android:textAppearance="?󏝖󡂗􊝘󃮻󨈷𩌠蝋򬚮񓙵񡗪󸫱򌽇򁡚綄􇞝/_________________________________res_0x7f03040e"
+                android:id="@􍘏𥟚􄕁𛎖򅦎󯃾񠇀򊍣򜅸񪢝񫯑񢂿𻌠󬻡󩭪㒤/_________________________________res_0x7f090175"
+                android:duplicateParentState="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:layout_below="@􍘏𥟚􄕁𛎖򅦎󯃾񠇀򊍣򜅸񪢝񫯑񢂿𻌠󬻡󩭪㒤/_________________________________res_0x7f0901b4"
+                style="@𯇙휧󺤴𵹭魻𹴩񖵋򛀞񷤜󕱷𾭪𓠴򃖲𫖙󩭊񮚭/_________________________________res_0x7f11014c"/>
+        </RelativeLayout>
+        <ImageView
+            android:layout_gravity="center"
+            android:id="@􍘏𥟚􄕁𛎖򅦎󯃾񠇀򊍣򜅸񪢝񫯑񢂿𻌠󬻡󩭪㒤/_________________________________res_0x7f090193"
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scaleType="center"
+            style="@𯇙휧󺤴𵹭魻𹴩񖵋򛀞񷤜󕱷𾭪𓠴򃖲𫖙󩭊񮚭/_________________________________res_0x7f11014b"/>
+    </LinearLayout>
+</androidx.appcompat.view.menu.ListMenuItemView>

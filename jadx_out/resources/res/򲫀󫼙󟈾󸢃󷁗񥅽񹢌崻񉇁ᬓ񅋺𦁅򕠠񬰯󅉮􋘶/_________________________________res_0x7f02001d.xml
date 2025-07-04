@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <selector>
+        <item
+            android:state_enabled="true"
+            android:state_pressed="true">
+            <set>
+                <objectAnimator
+                    android:duration="@󬚚򿛁񯺓򰧪󸱍񿨑񈅏󀥑𖥡󈦠󓫌􋚋񧭌񲪁󺟧󱪵/_________________________________res_0x7f0a0030"
+                    android:valueTo="@򔸐󫪥򪮝󼭠񢽀𗉺򛕊𯋈򚔛𤪴񞛰󂴅󖭳𦷬󷰝񬸐/_________________________________res_0x7f0602af"
+                    android:valueType="floatType"
+                    android:propertyName="translationZ"/>
+                <objectAnimator
+                    android:duration="0"
+                    android:valueTo="@򔸐󫪥򪮝󼭠񢽀𗉺򛕊𯋈򚔛𤪴񞛰󂴅󖭳𦷬󷰝񬸐/_________________________________res_0x7f0602a3"
+                    android:valueType="floatType"
+                    android:propertyName="elevation"/>
+            </set>
+        </item>
+        <item
+            android:state_enabled="true"
+            android:state_hovered="true">
+            <set>
+                <objectAnimator
+                    android:duration="@󬚚򿛁񯺓򰧪󸱍񿨑񈅏󀥑𖥡󈦠󓫌􋚋񧭌񲪁󺟧󱪵/_________________________________res_0x7f0a0030"
+                    android:valueTo="@򔸐󫪥򪮝󼭠񢽀𗉺򛕊𯋈򚔛𤪴񞛰󂴅󖭳𦷬󷰝񬸐/_________________________________res_0x7f0602ae"
+                    android:valueType="floatType"
+                    android:propertyName="translationZ"/>
+                <objectAnimator
+                    android:duration="0"
+                    android:valueTo="@򔸐󫪥򪮝󼭠񢽀𗉺򛕊𯋈򚔛𤪴񞛰󂴅󖭳𦷬󷰝񬸐/_________________________________res_0x7f0602a3"
+                    android:valueType="floatType"
+                    android:propertyName="elevation"/>
+            </set>
+        </item>
+        <item
+            android:state_focused="true"
+            android:state_enabled="true">
+            <set>
+                <objectAnimator
+                    android:duration="@󬚚򿛁񯺓򰧪󸱍񿨑񈅏󀥑𖥡󈦠󓫌􋚋񧭌񲪁󺟧󱪵/_________________________________res_0x7f0a0030"
+                    android:valueTo="@򔸐󫪥򪮝󼭠񢽀𗉺򛕊𯋈򚔛𤪴񞛰󂴅󖭳𦷬󷰝񬸐/_________________________________res_0x7f0602ae"
+                    android:valueType="floatType"
+                    android:propertyName="translationZ"/>
+                <objectAnimator
+                    android:duration="0"
+                    android:valueTo="@򔸐󫪥򪮝󼭠񢽀𗉺򛕊𯋈򚔛𤪴񞛰󂴅󖭳𦷬󷰝񬸐/_________________________________res_0x7f0602a3"
+                    android:valueType="floatType"
+                    android:propertyName="elevation"/>
+            </set>
+        </item>
+        <item android:state_enabled="true">
+            <set>
+                <objectAnimator
+                    android:duration="@󬚚򿛁񯺓򰧪󸱍񿨑񈅏󀥑𖥡󈦠󓫌􋚋񧭌񲪁󺟧󱪵/_________________________________res_0x7f0a0030"
+                    android:valueTo="@򔸐󫪥򪮝󼭠񢽀𗉺򛕊𯋈򚔛𤪴񞛰󂴅󖭳𦷬󷰝񬸐/_________________________________res_0x7f0602ad"
+                    android:valueType="floatType"
+                    android:propertyName="translationZ"
+                    android:startDelay="@󬚚򿛁񯺓򰧪󸱍񿨑񈅏󀥑𖥡󈦠󓫌􋚋񧭌񲪁󺟧󱪵/_________________________________res_0x7f0a002f"/>
+                <objectAnimator
+                    android:duration="0"
+                    android:valueTo="@򔸐󫪥򪮝󼭠񢽀𗉺򛕊𯋈򚔛𤪴񞛰󂴅󖭳𦷬󷰝񬸐/_________________________________res_0x7f0602a3"
+                    android:valueType="floatType"
+                    android:propertyName="elevation"/>
+            </set>
+        </item>
+        <item>
+            <set>
+                <objectAnimator
+                    android:duration="0"
+                    android:valueTo="@򔸐󫪥򪮝󼭠񢽀𗉺򛕊𯋈򚔛𤪴񞛰󂴅󖭳𦷬󷰝񬸐/_________________________________res_0x7f0602a2"
+                    android:valueType="floatType"
+                    android:propertyName="translationZ"/>
+                <objectAnimator
+                    android:duration="0"
+                    android:valueTo="@򔸐󫪥򪮝󼭠񢽀𗉺򛕊𯋈򚔛𤪴񞛰󂴅󖭳𦷬󷰝񬸐/_________________________________res_0x7f0602a1"
+                    android:valueType="floatType"
+                    android:propertyName="elevation"/>
+            </set>
+        </item>
+    </selector>
+</set>
