@@ -1,1 +1,29 @@
+# Ignore compiled APKs and tools
+*.apk
+*.dex
+*.jar
+*.class
+
+# Ignore reverse engineering temporary outputs
+__pycache__/
+*.log
+*.tmp
+*.bak
+*.orig
+*.swp
+
+# Ignore jadx build outputs if any
+build/
+*.iml
+
+# Ignore IDE-specific folders
+.vscode/
+.idea/
+
+# Ignore zipped files
+*.zip
+
+# Ignore backup folders
+.DS_Store
+Thumbs.db
 .DS_Store
